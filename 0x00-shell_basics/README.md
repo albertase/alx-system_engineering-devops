@@ -1,1 +1,1 @@
-/tmp/correction/3087052747683170440772343058097888868842_5/205/154120/0x00-shell_basics
+script that prints the absolute path name of the current working directory.
