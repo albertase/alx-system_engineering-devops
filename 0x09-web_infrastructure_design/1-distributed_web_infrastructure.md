@@ -1,3 +1,6 @@
+![1-distributed_web_infrastructure]('1-distributed_web_infrastructure.jpg "Image of a distributed web infrastructure")
+
+
 
 
 Description

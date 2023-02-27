@@ -1,5 +1,6 @@
 Scaled Up Web Infrastructure
 
+![3-scale_up](./3-scale_up.jpg "Image of scale up")
 
 
 

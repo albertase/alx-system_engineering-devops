@@ -1,5 +1,5 @@
 
-
+![0-simple_web_stack_image](0-simple_web_stack.jpg "Image of a simple web stack")
 
 
 

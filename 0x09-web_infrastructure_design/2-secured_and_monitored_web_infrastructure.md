@@ -1,5 +1,7 @@
 Secured and Monitored Web Infrastructure
 
+![2-secured_and_monitored_web_infrastructure](./2-secured_and_monitored_web_infrastructure.jpg "Image of secured and monitored web infrastructure")
+
 Description
 This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
 
